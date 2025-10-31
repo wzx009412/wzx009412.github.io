@@ -7228,7 +7228,7 @@ details.toc[open] >div.body section .header+.doc_tree {
   background-size: cover;
   --inset: 32px;
   --background-opacity: 0.8;
-  background-image: url("https://k.sinaimg.cn/n/sinacn20110/192/w1024h768/20190525/2841-hxntqyy4536747.jpg/w700d1q75cms.jpg");
+  background-image: /files/bj.jpg;
   filter: saturate(var(--saturate)) blur(var(--blur-px)) opacity(var(--background-opacity));
 }
 @media screen and (prefers-color-scheme: dark) {
